@@ -22,12 +22,12 @@ I curated a list of the best malware analyses that can be find online in order t
 
 ### 2007
 
-- [Zeus] - [[1](./reports/zeus_missing_manual.pdf)], [[2](./reports/zeus_p2p.pdf)], [[3](./reports/zeus_crimeware_analysis.pdf)]
+- Zeus - [[1](./reports/zeus_missing_manual.pdf)], [[2](./reports/zeus_p2p.pdf)], [[3](./reports/zeus_crimeware_analysis.pdf)]
 
 
 ### 2008
 
-- [Conficker] - [[1](./reports/analysis_of_Conficker.pdf)], [[2](./reports/confickeranalysis.pdf)]
+- Conficker - [[1](./reports/analysis_of_Conficker.pdf)], [[2](./reports/confickeranalysis.pdf)]
 
 
 ### 2010
@@ -60,7 +60,7 @@ I curated a list of the best malware analyses that can be find online in order t
 ### 2017
 
 - WannaCry - [[1](./reports/WannaCry.pdf)], [[2](./reports/WannaCry-Aftershock.pdf)], [[3](https://medium.com/@nikhilh20/malware-analysis-wannacry-b0d35f1b2033)]
-- (NotPetya) - [[1](./reports/NARC-Report-Petya-like-062017-for-Web.pdf)], [[2](https://www.crowdstrike.com/blog/petrwrap-ransomware-technical-analysis-triple-threat-file-encryption-mft-encryption-credential-theft)], [[3](notpetya-technical-analysis-threat-intelligence-report.pdf)]
+- (Not)Petya - [[1](./reports/NARC-Report-Petya-like-062017-for-Web.pdf)], [[2](https://www.crowdstrike.com/blog/petrwrap-ransomware-technical-analysis-triple-threat-file-encryption-mft-encryption-credential-theft)], [[3](notpetya-technical-analysis-threat-intelligence-report.pdf)]
 
 
 ### 2019
